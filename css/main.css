@@ -1,6 +1,6 @@
 body{
     width: 100%;
-    background-color: 
+    background-color:#BBBFC2; 
 }
 
 /*Wrapper-content*/
@@ -10,6 +10,7 @@ body{
 
 /*Text-over-img*/
 .teimg{
+    text-align: center;
     color:#fff;
     margin: -250px -400px 0 0;
 }
