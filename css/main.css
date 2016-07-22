@@ -1,8 +1,29 @@
 body{
     width: 100%;
-    background-color:#BBBFC2; 
+    background-color: 
 }
 
+/*Wrapper-content*/
 .wrapper-all{
     text-align: center;
+}
+
+/*Text-over-img*/
+.teimg{
+    color:#fff;
+    margin: -250px -400px 0 0;
+}
+
+.teimg h4{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 32px;
+    margin-right: -52px;
+    
+}
+
+.teimg h2{
+    font-family: 'Open Sans', sans-serif;
+    font-weight:900;
+    font-size: 46px;
+    
 }
