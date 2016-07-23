@@ -1,4 +1,10 @@
 body{
-    width: 80%;
+    width: 100%;
     background-color: #BBBFC2;
+    margin-left: 150px; 
+}
+
+.wrapper{
+    background-color: #fff;
+    height: 500px;
 }
